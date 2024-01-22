@@ -3,7 +3,7 @@ import random
 import os
 
 # Takım isimlerini ve logolarını içeren klasör yolu
-logo_klasoru = "/Users/cgunduz/PycharmProjects/ztk_draw/logolar"
+logo_klasoru = "logolar"
 
 liste1 = ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Başakşehir",
           "Trabzonspor", "Karagümrük", "Konyaspor", "Ankaragücü"]
