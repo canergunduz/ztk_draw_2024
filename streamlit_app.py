@@ -5,10 +5,10 @@ import os
 # Takım isimlerini ve logolarını içeren klasör yolu
 logo_klasoru = "logolar"
 
-liste1 = ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Başakşehir",
-          "Trabzonspor", "Karagümrük", "Konyaspor", "Ankaragücü"]
+liste1 = ["Fenerbahce", "Galatasaray", "Besiktas", "Başaksehir",
+          "Trabzonspor", "Karagumruk", "Konyaspor", "Ankaragucu"]
 liste2 = ["Antalyaspor", "Sivasspor", "Gaziantep FK", "Hatayspor",
-          "Samsunspor", "Bandırmaspor", "Gençlerbirliği", "24 Erzincanspor"]
+          "Samsunspor", "Bandirmaspor", "Genclerbirligi", "24 Erzincanspor"]
 takimlar = liste1 + liste2
 
 # Streamlit uygulaması
